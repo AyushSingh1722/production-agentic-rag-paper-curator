@@ -102,6 +102,23 @@ It answers:
 
 This file is the best quick status reference.
 
+### 5. `04_runbook_and_operational_commands.ipynb`
+
+This notebook is the operational runbook for the project.
+
+It explains:
+
+- how to start the stack
+- how to check health
+- how to inspect logs
+- how to run ingestion
+- how to run indexing
+- how to query the API
+- how to use the Telegram bot
+- how to think about one-day versus multi-date collections
+
+This notebook is best when we want practical step-by-step run instructions.
+
 ## Suggested Reading Order
 
 If someone is new to the project, this order will be the most helpful:
@@ -109,7 +126,8 @@ If someone is new to the project, this order will be the most helpful:
 1. `01_tools_and_terminology.ipynb`
 2. `02_project_workflow_end_to_end.ipynb`
 3. `03_errors_challenges_and_resolutions.ipynb`
-4. `PROGRESS_RECORD.md`
+4. `04_runbook_and_operational_commands.ipynb`
+5. `PROGRESS_RECORD.md`
 
 Why this order:
 
